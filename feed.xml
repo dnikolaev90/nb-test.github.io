@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <item>
+            <title>KAVABANGA_3_09-00_FEED_3</title>
+            <pubDate>Wed, 30 Nov 2022 06:00:00 +0000</pubDate>
+            <link>https://git.xtools.tv/dnikolaev</link>
+            <author>dnikolaev</author>
+            <guid>1112903</guid>
+            <description>
+                <![CDATA[
+                    <p>description</p>
+                ]]>
+            </description>
+            <category domain="tradingview:symbol">NASDAQ:META</category>
+            <category domain="tradingview:market">crypto</category>
+        </item>
+    </channel>
+</rss>
