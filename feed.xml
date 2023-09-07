@@ -1,21 +1,14 @@
 <rss version="2.0">
     <channel>
         <item>
-            <title>KAVABANGA_1_17-45</title>
-            <pubDate>Wed, 6 Sep 2023 14:45:00 +0000</pubDate>
+            <title>KAVABANGA_1_13-21</title>
+            <pubDate>Thu, 7 Sep 2023 10:21:00 +0000</pubDate>
             <link>https://git.xtools.tv/dnikolaev</link>
             <author>dnikolaev</author>
             <guid>1112901</guid>
             <description>
                 <![CDATA[
-                test 2
-                <a href="https://beatport.com"></a><br>  
-                <blockquote class="twitter-tweet">
-                    <p lang="en" dir="ltr">
-                        text
-                    </p>&mdash;
-                    <a href="https://twitter.com/WillyTheDegen/status/1516144319874232323?ref_src=twsrc%5Etfw"></a>
-                </blockquote>
+                test 1
                 ]]>
             </description>
         </item>
