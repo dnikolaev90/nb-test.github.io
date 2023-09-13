@@ -1,8 +1,8 @@
 <rss version="2.0">
     <channel>
         <item>
-            <title>KAVABANGA_1_13-21</title>
-            <pubDate>Thu, 7 Sep 2023 10:21:00 +0000</pubDate>
+            <title>KAVABANGA_1_06-30</title>
+            <pubDate>Wed, 13 Sep 2023 06:30:00 +0000</pubDate>
             <link>https://git.xtools.tv/dnikolaev</link>
             <author>dnikolaev</author>
             <guid>1112901</guid>
@@ -11,6 +11,7 @@
                 test 1
                 ]]>
             </description>
+            <category domain="tradingview:symbol">MOEX:LKOH</category>
         </item>
     </channel>
 </rss>
