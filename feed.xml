@@ -2,7 +2,7 @@
     <channel>
         <item>
             <title>KAVABANGA_1_09-00</title>
-            <pubDate>Wed, 14 Sep 2023 06:00:00 +0000</pubDate>
+            <pubDate>Tue, 19 Sep 2023 06:00:00 +0000</pubDate>
             <link>https://git.xtools.tv/dnikolaev</link>
             <author>dnikolaev</author>
             <guid>1112901</guid>
@@ -11,8 +11,8 @@
                 test 1
                 ]]>
             </description>
-            <category domain="tradingview:symbol">MOEX:SBER</category>
-            <category domain="tradingview:symbol">MOEX:LKOH</category>
+<!--             <category domain="tradingview:symbol">MOEX:SBER</category>
+            <category domain="tradingview:symbol">MOEX:LKOH</category> -->
         </item>
     </channel>
 </rss>
