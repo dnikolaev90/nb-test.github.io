@@ -1,8 +1,8 @@
 <rss version="2.0">
     <channel>
         <item>
-            <title>KAVABANGA_1_08-43</title>
-            <pubDate>Wed, 20 Sep 2023 05:43:00 +0000</pubDate>
+            <title>KAVABANGA_1_08-53</title>
+            <pubDate>Wed, 20 Sep 2023 05:53:00 +0000</pubDate>
             <link>https://git.xtools.tv/dnikolaev</link>
             <author>dnikolaev</author>
             <guid>1112901</guid>
@@ -11,7 +11,7 @@
                 test 1
                 ]]>
             </description>
-            <category domain="tradingview:symbol">MOEX:SBER</category>
+            <category domain="tradingview:symbol">JSE:SAP</category>
         </item>
     </channel>
 </rss>
