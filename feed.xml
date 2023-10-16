@@ -1,8 +1,8 @@
 <rss version="2.0">
     <channel>
         <item>
-            <title>KAVABANGA_1_09-30</title>
-            <pubDate>Thu, 5 Oct 2023 06:30:00 +0000</pubDate>
+            <title>KAVABANGA_1_16-20</title>
+            <pubDate>Mon, 16 Oct 2023 13:20:00 +0000</pubDate>
             <link>https://git.xtools.tv/dnikolaev</link>
             <author>dnikolaev</author>
             <guid>1112901</guid>
@@ -11,6 +11,7 @@
                 <p>Maharashtra's Health Minister, Tanaji Sawant, announced on Monday, August 28, that approximately 11,000 positions in the C and D categories within various government hospitals and healthcare institutions will soon be filled, reported ANI.</p><p><i>Also read: </i><a class="manualbacklink" target="_blank" href="https://www.livemint.com/news/india/nmc-issues-rules-for-new-medical-schools-150-seats-max-11692943060334.html"><i>NMC issues rules for new medical schools: 150 seats max</i></a></p><p>"The entire recruitment process will be implemented through Tata Consultancy Services (TCS).
                 ]]>
             </description>
+            <category domain="tradingview:country">AR</category>
         </item>
     </channel>
 </rss>
